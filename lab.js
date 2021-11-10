@@ -5,8 +5,14 @@
   If it is true, console log "I love to code!"
   If it is not, console log "Coding has its challenges."
 */
+let lovesCode = true
+if (lovesCode = true){
+  console.log("i love to code")
+}
+else if (lovesCode = false){
+  console.log("Coding has its challanges")
+}
 
-//CODE HERE
 
 // For problems 2-3 use the following lines of code:
 var amysAge = 29
