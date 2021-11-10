@@ -5,13 +5,13 @@
   If it is true, console log "I love to code!"
   If it is not, console log "Coding has its challenges."
 */
-// let lovesCode = true
-// if (lovesCode = true){
-//   console.log("i love to code")
-// }
-// else if (lovesCode = false){
-//   console.log("Coding has its challanges")
-// }
+let lovesCode = true
+if (lovesCode = true){
+  console.log("i love to code")
+}
+else if (lovesCode = false){
+  console.log("Coding has its challanges")
+}
 
 
 // For problems 2-3 use the following lines of code:
@@ -50,7 +50,7 @@ if(amysBirthYear===brittanisBirthYear){
 
 ////////// PROBLEM 4 //////////
 
-let temperature = 55
+let temperature = 90
 let rain = false
 
 /*
@@ -80,7 +80,9 @@ if(rain===true && temperature >= 80){
   Create a for-loop that runs 10 times, and on each iteration logs the word 'hello'.
 */
 
-//CODE HERE
+for(i=10;i>0;i--){
+  console.log("hello")
+}
 
 
 ////////// PROBLEM 6 //////////
