@@ -6,10 +6,10 @@
   If it is not, console log "Coding has its challenges."
 */
 let lovesCode = true
-if (lovesCode = true){
+if (lovesCode === true){
   console.log("i love to code")
 }
-else if (lovesCode = false){
+else if (lovesCode === false){
   console.log("Coding has its challanges")
 }
 
@@ -129,17 +129,17 @@ while(score<passingScore){
 
 */
 
-// changeMyMind= true
-// if(changeMyMind=true){
-//   changeMyMind=false
-// } else changeMyMind=true
+changeMyMind= true
+if(changeMyMind===true){
+  changeMyMind=false
+} else changeMyMind=true
 
 ////////// PROBLEM 10 //////////
 // Try to change the value of changeMyMind (irrespective of whether it is true or false) and then console.log it's new status. It should log true. Hint: use the not operator.
 
-// changeMyMind= !changeMyMind
+changeMyMind= !changeMyMind
 
-// console.log(changeMyMind)
+console.log(changeMyMind)
 
 
 ////////// ADVANCED PROBLEMS //////////
